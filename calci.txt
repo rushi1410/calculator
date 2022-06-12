@@ -1,1 +1,4 @@
 echo"welcome to calculator"
+read -p "enter number1:" num1
+read -p "enter number2:" num2
+sum=num1+num2
